@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>作业1</title>
+</head>
+<body>
+<h1 align="center">选择题</h1>
+&nbsp;&nbsp;&nbsp;&nbsp;1+1=? (B)
+<ol type="A">
+    <li>A.1</li>
+    <li>B.2</li>
+    <li>C.3</li>
+    <li>D.4</li>
+</ol>
+</body>
+</html>
